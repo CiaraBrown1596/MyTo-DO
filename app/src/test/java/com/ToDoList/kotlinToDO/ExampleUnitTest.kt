@@ -1,4 +1,4 @@
-package com.codinginflow.mvvmtodo
+package com.ToDoList.kotlinToDO
 
 import org.junit.Test
 
