@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MVVMTodo">
-        <activity android:name="com.ToDoList.kotlinToDo.MainActivity">
+        <activity android:name="com.ToDoList.kotlinToDO.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
